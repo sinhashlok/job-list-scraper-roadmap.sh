@@ -1,7 +1,10 @@
 [project]
 name = "job-listing-scraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "A CSV scraper for the Fake Python Jobs practice website."
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "requests>=2.34.2",
+]

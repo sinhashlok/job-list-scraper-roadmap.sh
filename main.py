@@ -1,5 +1,8 @@
+from src.scraper import jobs_scraper
+
+
 def main():
-    print("Hello from job-listing-scraper!")
+    jobs_scraper()
 
 
 if __name__ == "__main__":
