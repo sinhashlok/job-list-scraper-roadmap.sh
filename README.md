@@ -4,6 +4,8 @@ A Python command-line scraper that collects job title, company, location, and
 detail-page URL data from the [Fake Python Jobs](https://realpython.github.io/fake-jobs/)
 practice website and saves it as CSV.
 
+This is a learning project following the [Job Listings Scraper](https://roadmap.sh/projects/job-listings-scraper) from [roadmap.sh](https://roadmap.sh).
+
 ## Requirements
 
 - Python 3.14 or newer
